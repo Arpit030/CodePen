@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Arpit030/CodePen.git/static/css/main.e49f045d.css",
+    "main.js": "/Arpit030/CodePen.git/static/js/main.927a12d0.js",
+    "index.html": "/Arpit030/CodePen.git/index.html",
+    "main.e49f045d.css.map": "/Arpit030/CodePen.git/static/css/main.e49f045d.css.map",
+    "main.927a12d0.js.map": "/Arpit030/CodePen.git/static/js/main.927a12d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e49f045d.css",
+    "static/js/main.927a12d0.js"
+  ]
+}
